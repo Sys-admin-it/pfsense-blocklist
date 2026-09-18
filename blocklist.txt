@@ -1,0 +1,17 @@
+# Social media
+facebook.com
+www.facebook.com
+instagram.com
+www.instagram.com
+
+# Adult content
+example-porn-site.com
+another-adult-site.com
+
+# Movies / piracy
+movierulz.example
+example-movie-site.com
+
+# Drugs
+example-drug-site.com
+example-drug-market.com
