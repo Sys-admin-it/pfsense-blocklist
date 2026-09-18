@@ -5,13 +5,20 @@ instagram.com
 www.instagram.com
 
 # Adult content
-example-porn-site.com
-another-adult-site.com
+wine-searcher.com
+beeradvocate.com
+merchantduvin.com
+drizly.com
+modelmayhem.com
+xhamster.com
+xvideos.com
 
 # Movies / piracy
-movierulz.example
-example-movie-site.com
+https://www.5movierulz.solutions/
+https://movierulzblog.com/
 
 # Drugs
-example-drug-site.com
-example-drug-market.com
+bet365.com
+freelotto.com
+williamhill.com
+betfair.com
