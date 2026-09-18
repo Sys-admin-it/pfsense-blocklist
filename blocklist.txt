@@ -6,7 +6,7 @@
 0.0.0.0 x.com
 0.0.0.0 snapchat.com
 0.0.0.0 reddit.com
-0.0.0.0 pinterest.com
+0.0.0.0 in.pinterest.com
 0.0.0.0 tumblr.com
 0.0.0.0 linkedin.com
 0.0.0.0 threads.net
