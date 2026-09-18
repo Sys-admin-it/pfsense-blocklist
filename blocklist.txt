@@ -1,38 +1,38 @@
 # Social Media
-facebook.com
-instagram.com
-tiktok.com
-twitter.com
-x.com
-snapchat.com
-reddit.com
-pinterest.com
-tumblr.com
-linkedin.com
-threads.net
+0.0.0.0 facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 tiktok.com
+0.0.0.0 twitter.com
+0.0.0.0 x.com
+0.0.0.0 snapchat.com
+0.0.0.0 reddit.com
+0.0.0.0 pinterest.com
+0.0.0.0 tumblr.com
+0.0.0.0 linkedin.com
+0.0.0.0 threads.net
 
 # Video / entertainment - if prohibited by company policy
-youtube.com
-dailymotion.com
-vimeo.com
-twitch.tv
+0.0.0.0 youtube.com
+0.0.0.0 dailymotion.com
+0.0.0.0 vimeo.com
+0.0.0.0 twitch.tv
 
 # Gambling
-bet365.com
-stake.com
-draftkings.com
-betway.com
-1xbet.com
-betfair.com
+0.0.0.0 bet365.com
+0.0.0.0 stake.com
+0.0.0.0 draftkings.com
+0.0.0.0 betway.com
+0.0.0.0 1xbet.com
+0.0.0.0 betfair.com
 
 # Piracy / unauthorized streaming
-123movies.com
-fmovies.to
-putlocker.com
-soap2day.com
-yts.mx
-5movierulz.solutions
-movierulzblog.com
+0.0.0.0 123movies.com
+0.0.0.0 fmovies.to
+0.0.0.0 putlocker.com
+0.0.0.0 soap2day.com
+0.0.0.0 yts.mx
+0.0.0.0 5movierulz.solutions
+0.0.0.0 movierulzblog.com
 
 # Adult content
 pornhub.com
