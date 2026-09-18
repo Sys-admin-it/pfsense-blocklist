@@ -1,24 +1,61 @@
-# Social media
+# Social Media
 facebook.com
-www.facebook.com
 instagram.com
-www.instagram.com
+tiktok.com
+twitter.com
+x.com
+snapchat.com
+reddit.com
+pinterest.com
+tumblr.com
+linkedin.com
+threads.net
+
+# Video / entertainment - if prohibited by company policy
+youtube.com
+dailymotion.com
+vimeo.com
+twitch.tv
+
+# Gambling
+bet365.com
+stake.com
+draftkings.com
+betway.com
+1xbet.com
+betfair.com
+
+# Piracy / unauthorized streaming
+123movies.com
+fmovies.to
+putlocker.com
+soap2day.com
+yts.mx
+5movierulz.solutions
+movierulzblog.com
 
 # Adult content
-wine-searcher.com
-beeradvocate.com
-merchantduvin.com
-drizly.com
-modelmayhem.com
-xhamster.com
+pornhub.com
 xvideos.com
+xhamster.com
+xnxx.com
+redtube.com
+youporn.com
+spankbang.com
 
-# Movies / piracy
-https://www.5movierulz.solutions/
-https://movierulzblog.com/
+# Cryptocurrency / mining (if prohibited)
+hpool.com
+hiveon.net
+hiveos.farm
+herominers.com
 
-# Drugs
-bet365.com
-freelotto.com
-williamhill.com
-betfair.com
+# URL shorteners
+bit.ly
+tinyurl.com
+t.co
+ow.ly
+
+# Suspicious / disposable services
+10minutemail.com
+guerrillamail.com
+mailinator.com
